@@ -1,5 +1,5 @@
-=== BxSlider WP ===
-Contributors: kosinix
+=== BxSlider WP ==========================
+Contributors: kosinixxxxxxxxxxxxxxxxxxxxx
 Donate link: http://www.codefleet.net/donate/
 Tags: bxslider, wordpress, slider, slideshow, carousel, jquery, responsive, multilingual, custom post
 Requires at least: 3.5
